@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/xm/CLionProjects/dbconn/main.cpp
+iostream
+-
+mysql.h
+-
+windows.h
+-
+
+D:/Program Files/MariaDB 10.1/include/mysql/my_alloc.h
+
+D:/Program Files/MariaDB 10.1/include/mysql/my_list.h
+
+D:/Program Files/MariaDB 10.1/include/mysql/mysql.h
+standards.h
+-
+sys/types.h
+-
+mysql_version.h
+D:/Program Files/MariaDB 10.1/include/mysql/mysql_version.h
+mysql_com.h
+D:/Program Files/MariaDB 10.1/include/mysql/mysql_com.h
+mysql_time.h
+D:/Program Files/MariaDB 10.1/include/mysql/mysql_time.h
+my_list.h
+D:/Program Files/MariaDB 10.1/include/mysql/my_list.h
+typelib.h
+D:/Program Files/MariaDB 10.1/include/mysql/typelib.h
+my_alloc.h
+D:/Program Files/MariaDB 10.1/include/mysql/my_alloc.h
+
+D:/Program Files/MariaDB 10.1/include/mysql/mysql_com.h
+
+D:/Program Files/MariaDB 10.1/include/mysql/mysql_time.h
+
+D:/Program Files/MariaDB 10.1/include/mysql/mysql_version.h
+custom_conf.h
+-
+
+D:/Program Files/MariaDB 10.1/include/mysql/typelib.h
+my_alloc.h
+D:/Program Files/MariaDB 10.1/include/mysql/my_alloc.h
+
