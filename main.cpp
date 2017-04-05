@@ -1,3 +1,12 @@
+/**
+ * 描述: 在Clion中使用connector/c 在C++ 项目中操作数据库
+ * @author 老九学堂.虾米
+ * @date	2017年3月30日
+ * @address	成都大慈寺路22号电信5所
+ * @copyright <a href="http://www.xuetang9.com">老九学堂</a> &copy 2017 
+ * @version 1.0
+ */
+
 #include <iostream>
 #include <mysql.h>
 #include <windows.h>
